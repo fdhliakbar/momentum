@@ -7,5 +7,6 @@ import HeroSection from '@/components/HeroSection.vue'
   <main>
     <Navbar />
     <HeroSection />
+    <router-view />
   </main>
 </template>

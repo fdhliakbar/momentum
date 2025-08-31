@@ -6,7 +6,7 @@
     </div>
     <ul class="hidden md:flex gap-8 text-gray-700 font-medium">
       <li><a href="#home" class="hover:text-black transition">Home</a></li>
-      <li><a href="#features" class="hover:text-black transition">Features</a></li>
+      <li><a href="#inputform" class="hover:text-black transition">Input Form</a></li>
       <li><a href="#testimonials" class="hover:text-black transition">Testimonials</a></li>
     </ul>
     <button
